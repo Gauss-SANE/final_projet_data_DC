@@ -1,0 +1,121 @@
+web_scraper_order,web_scraper_start_url,brand_year,price,address,kilometrage,gearbox,fuel,owner
+1765131600-1,https://dakar-auto.com/senegal/voitures-4?&page=3,Ford Fusion 2017,4 900 000 F CFA,"Sicap Foire,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131600-2,https://dakar-auto.com/senegal/voitures-4?&page=3,Hyundai Santa Fe 2016,6 290 000 F CFA,"Grand-Dakar,
+				Dakar",110000 km,Automatique,Essence,Par Rose  DIOMPY
+1765131600-3,https://dakar-auto.com/senegal/voitures-4?&page=3,Citroen C4 2017,5 600 000 F CFA,"Thiès,
+				Thiès",111000 km,Automatique,Diesel,Par Rose  DIOMPY
+1765131600-4,https://dakar-auto.com/senegal/voitures-4?&page=3,Nissan Juke 2017,6 700 000 F CFA,"Ngor,
+				Dakar",1 km,Automatique,Diesel,Par Rose  DIOMPY
+1765131600-5,https://dakar-auto.com/senegal/voitures-4?&page=3,Chevrolet Cruze 2011,2 500 000 F CFA,"Biscuiterie,
+				Dakar",1 km,Automatique,Essence,Par Naby Faye
+1765131600-6,https://dakar-auto.com/senegal/voitures-4?&page=3,Kia Optima 2014,3 500 000 F CFA,"Grand-Yoff,
+				Dakar",129000 km,Automatique,Essence,Par Rose  DIOMPY
+1765131600-7,https://dakar-auto.com/senegal/voitures-4?&page=3,Hyundai Tucson 2014,4 950 000 F CFA,"Sud Foire,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131600-8,https://dakar-auto.com/senegal/voitures-4?&page=3,Kia Sportage 2017,9 500 000 F CFA,"Grand-Dakar,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131600-9,https://dakar-auto.com/senegal/voitures-4?&page=3,Hyundai Sonata 2016,4 100 000 F CFA,"Sicap Liberté,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131600-10,https://dakar-auto.com/senegal/voitures-4?&page=3,Renault FRIGORIPHIQUE 2017,8 000 000 F CFA,"Hlm,
+				Dakar",101000 km,Automatique,Diesel,Par Rose  DIOMPY
+1765131600-11,https://dakar-auto.com/senegal/voitures-4?&page=3,Peugeot 3008 2017,5 000 000 F CFA,"Cambérène,
+				Dakar",120000 km,Automatique,Diesel,Par Rose  DIOMPY
+1765131600-12,https://dakar-auto.com/senegal/voitures-4?&page=3,Mitsubishi Outlander 2018,8 700 000 F CFA,"Médina,
+				Dakar",102723 km,Automatique,Essence,Par Rose  DIOMPY
+1765131600-13,https://dakar-auto.com/senegal/voitures-4?&page=3,Hyundai Tucson 2017,7 500 000 F CFA,"Amitié,
+				Dakar",1 km,Automatique,Diesel,Par Rose  DIOMPY
+1765131600-14,https://dakar-auto.com/senegal/voitures-4?&page=3,Peugeot 308 2012,3 700 000 F CFA,"Cambérène,
+				Dakar",1 km,Manuelle,Diesel,Par Rose  DIOMPY
+1765131600-15,https://dakar-auto.com/senegal/voitures-4?&page=3,Renault Dusteur 2017,6 800 000 F CFA,"VDN,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131600-16,https://dakar-auto.com/senegal/voitures-4?&page=3,Ssangyong Korando 2016,5 500 000 F CFA,"Parcelles Assainies,
+				Dakar",150000 km,Automatique,Diesel,Par Rose  DIOMPY
+1765131600-17,https://dakar-auto.com/senegal/voitures-4?&page=3,Toyota Prado 2016,15 900 000 F CFA,"Point-E,
+				Dakar",1 km,Automatique,Diesel,Par Rose  DIOMPY
+1765131600-18,https://dakar-auto.com/senegal/voitures-4?&page=3,Ford Edge 2016,5 800 000 F CFA,"Dieuppeul Derklé,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131600-19,https://dakar-auto.com/senegal/voitures-4?&page=3,Kia Kia-k7 2016,4 700 000 F CFA,"Liberté 6,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131600-20,https://dakar-auto.com/senegal/voitures-4?&page=3,Ford Fusion 2014,2 800 000 F CFA,"Liberté 4,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131655-21,https://dakar-auto.com/senegal/voitures-4?&page=2,Chevrolet Cruze 2014,2 500 000 F CFA,"Sicap Dieuppeul,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131655-22,https://dakar-auto.com/senegal/voitures-4?&page=2,Dacia Sandero 2017,4 800 000 F CFA,"Biscuiterie,
+				Dakar",1 km,Manuelle,Diesel,Par Rose  DIOMPY
+1765131655-23,https://dakar-auto.com/senegal/voitures-4?&page=2,Dacia Duster 2019,8 750 000 F CFA,"Dieuppeul Derklé,
+				Dakar",1 km,Manuelle,Diesel,Par Rose  DIOMPY
+1765131655-24,https://dakar-auto.com/senegal/voitures-4?&page=2,Bmw X5 2018,13 850 000 F CFA,"Point-E,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131655-25,https://dakar-auto.com/senegal/voitures-4?&page=2,Bmw X4 2018,22 000 000 F CFA,"Sicap Sacré Coeur,
+				Dakar",116400 km,Automatique,Essence,Par Idrissa Dieye
+1765131655-26,https://dakar-auto.com/senegal/voitures-4?&page=2,Peugeot 406 2004,1 000 000 F CFA,"Nguekhokh,
+				Thiès",200000 km,Manuelle,Diesel,Par MAMADOU GUEYE
+1765131655-27,https://dakar-auto.com/senegal/voitures-4?&page=2,Renault Dusteur 2011,6 000 000 F CFA,"Malicounda,
+				Thiès",85000 km,Manuelle,Essence,Par MAMADOU GUEYE
+1765131655-28,https://dakar-auto.com/senegal/voitures-4?&page=2,Peugeot 3008 2017,8 500 000 F CFA,"Grand-Yoff,
+				Dakar",1 km,Automatique,Diesel,Par Rose  DIOMPY
+1765131655-29,https://dakar-auto.com/senegal/voitures-4?&page=2,Kia Sportage 2018,10 750 000 F CFA,"Liberté 6 extension,
+				Dakar",98000 km,Automatique,Diesel,Par Rose  DIOMPY
+1765131655-30,https://dakar-auto.com/senegal/voitures-4?&page=2,Hyundai Ix35 2012,4 900 000 F CFA,"Virage,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131655-31,https://dakar-auto.com/senegal/voitures-4?&page=2,Ford Focus 2014,2 700 000 F CFA,"Rufisque,
+				Dakar",280000 km,Manuelle,Essence,Par Eloi  Diouf
+1765131655-32,https://dakar-auto.com/senegal/voitures-4?&page=2,Ford Focus 2014,2 700 000 F CFA,"Rufisque,
+				Dakar",280000 km,Manuelle,Essence,Par Eloi  Diouf
+1765131655-33,https://dakar-auto.com/senegal/voitures-4?&page=2,Range Rover Sport 2019,19 000 000 F CFA,"Sicap Foire,
+				Dakar",54000 km,Automatique,Essence,Par Rose  DIOMPY
+1765131655-34,https://dakar-auto.com/senegal/voitures-4?&page=2,Hyundai Santa Fe 2019,9 300 000 F CFA,"Dieuppeul Derklé,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131655-35,https://dakar-auto.com/senegal/voitures-4?&page=2,Ford ESCAPE-SE 2018,5 200 000 F CFA,"Grand-Yoff,
+				Dakar",101000 km,Automatique,Essence,Par Rose  DIOMPY
+1765131655-36,https://dakar-auto.com/senegal/voitures-4?&page=2,Hyundai Santa Fe 2018,8 900 000 F CFA,"Ngueniene,
+				Thiès",153000 km,Automatique,Essence,Par Rose  DIOMPY
+1765131655-37,https://dakar-auto.com/senegal/voitures-4?&page=2,Hyundai Tucson 2020,7 800 000 F CFA,"Sicap Dieuppeul,
+				Dakar",45000 km,Automatique,Essence,Par Rose  DIOMPY
+1765131655-38,https://dakar-auto.com/senegal/voitures-4?&page=2,Kia Sportage 2023,23 290 000 F CFA,"Point-E,
+				Dakar",18000 km,Automatique,Essence,Par Rose  DIOMPY
+1765131655-39,https://dakar-auto.com/senegal/voitures-4?&page=2,Citroen C5 2020,9 700 000 F CFA,"Fann,
+				Dakar",64000 km,Automatique,Essence,Par Rose  DIOMPY
+1765131655-40,https://dakar-auto.com/senegal/voitures-4?&page=2,Nissan Qashqai 2010,3 000 000 F CFA,"Dieuppeul Derklé,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131708-41,https://dakar-auto.com/senegal/voitures-4?&page=1,Hyundai Tucson 2018,8 500 F CFA,"Mbour,
+				Thiès",165000 km,Automatique,Essence,Par Ibou  SARR
+1765131708-42,https://dakar-auto.com/senegal/voitures-4?&page=1,Ford Wildtrack-ranger 2018,18 500 000 F CFA,"Keur Massar,
+				Dakar",200000 km,Manuelle,Diesel,Par Papa Gueye
+1765131708-43,https://dakar-auto.com/senegal/voitures-4?&page=1,Toyota C-hr 2023,17 500 000 F CFA,"Keur Massar,
+				Dakar",105000 km,Automatique,Essence,Par Papa Gueye
+1765131708-44,https://dakar-auto.com/senegal/voitures-4?&page=1,Mitsubishi L200 2017,16 000 000 F CFA,"Keur Massar,
+				Dakar",200000 km,Automatique,Diesel,Par Papa Gueye
+1765131708-45,https://dakar-auto.com/senegal/voitures-4?&page=1,Hyundai Tucson 2018,12 200 000 F CFA,"Keur Massar,
+				Dakar",114000 km,Automatique,Diesel,Par Papa Gueye
+1765131708-46,https://dakar-auto.com/senegal/voitures-4?&page=1,Citroen C3 2017,6 200 000 F CFA,"Keur Massar,
+				Dakar",200000 km,Manuelle,Diesel,Par Papa Gueye
+1765131708-47,https://dakar-auto.com/senegal/voitures-4?&page=1,Volkswagen Atlas 2018,19 000 000 F CFA,"Point-E,
+				Dakar",107000 km,Automatique,Essence,Par Ahmed Dieng
+1765131708-48,https://dakar-auto.com/senegal/voitures-4?&page=1,Hyundai Grandeur 2015,5 000 000 F CFA,"Point-E,
+				Dakar",25000 km,Automatique,Essence,Par Sow  Rassoul
+1765131708-49,https://dakar-auto.com/senegal/voitures-4?&page=1,Mitsubishi L200 2016,6 300 000 F CFA,"Grand-Yoff,
+				Dakar",1 km,Manuelle,Diesel,Par Rose  DIOMPY
+1765131708-50,https://dakar-auto.com/senegal/voitures-4?&page=1,Mitsubishi L200 2020,9 950 000 F CFA,"Sud Foire,
+				Dakar",1 km,Manuelle,Diesel,Par Rose  DIOMPY
+1765131708-51,https://dakar-auto.com/senegal/voitures-4?&page=1,Bmw X4 2017,10 500 000 F CFA,"Guédiawaye,
+				Dakar",100000 km,Automatique,Essence,Par Rose  DIOMPY
+1765131708-52,https://dakar-auto.com/senegal/voitures-4?&page=1,Hyundai Sonata 2017,6 500 000 F CFA,"Patte d'oie,
+				Dakar",65000 km,Automatique,Essence,Par Rose  DIOMPY
+1765131708-53,https://dakar-auto.com/senegal/voitures-4?&page=1,Hyundai Sonata 2015,3 500 000 F CFA,"Dieuppeul Derklé,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
+1765131708-54,https://dakar-auto.com/senegal/voitures-4?&page=1,Range Rover Sport 2017,18 000 000 F CFA,"Liberté 6 extension,
+				Dakar",83000 km,Automatique,Diesel,Par Rose  DIOMPY
+1765131708-55,https://dakar-auto.com/senegal/voitures-4?&page=1,Toyota Hi Ace 2010,8 000 000 F CFA,"Ouest Foire,
+				Dakar",150000 km,Manuelle,Diesel,Par madior fall
+1765131708-56,https://dakar-auto.com/senegal/voitures-4?&page=1,Ford Fusion 2012,1 800 000 F CFA,"Kaolack,
+				Kaolack",1 km,Automatique,Essence,Par Moussa Diop
+1765131708-57,https://dakar-auto.com/senegal/voitures-4?&page=1,Mazda 3 2018,6 600 000 F CFA,"Fann,
+				Dakar",63000 km,Automatique,Essence,Par Rose  DIOMPY
+1765131708-58,https://dakar-auto.com/senegal/voitures-4?&page=1,Kia Kia-k7 2016,5 200 000 F CFA,"Ouest Foire,
+				Dakar",120000 km,Automatique,Essence,Par Cheikh Gueye
+1765131708-59,https://dakar-auto.com/senegal/voitures-4?&page=1,Nissan Juke 2012,3 500 000 F CFA,"Dieuppeul Derklé,
+				Dakar",126100 km,Automatique,Essence,Par Ciré  Ndiaye
+1765131708-60,https://dakar-auto.com/senegal/voitures-4?&page=1,Chevrolet Cruze 2014,2 500 000 F CFA,"Sicap Dieuppeul,
+				Dakar",1 km,Automatique,Essence,Par Rose  DIOMPY
